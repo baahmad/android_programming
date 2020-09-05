@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="button">Appuyez pour Toast</string>
+    <string name="text_portrait">Passer en Mode Paysage</string>
+    <string name="toast">Afficher Toast</string>
+    <string name="text_horizontal">Bonjour, je m\'appelle Bilal et je termine mon MS en CSci ce semestre. Ma langue maternelle est l\'anglais mais aux fins de cette mission, j\'ai ajouté des traductions en français</string>
+</resources>

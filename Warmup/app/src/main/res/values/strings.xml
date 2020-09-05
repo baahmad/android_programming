@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="button">Press For Toast</string>
+    <string name="text_portrait">Switch to Landscape Mode</string>
+    <string name="text_horizontal">Hi, my name is Bilal and I am finishing my MS in CSci this semester. My native language is English but for the purpose of this assignment I added French translations.</string>
+    <string name="toast">Displaying Toast</string>
+</resources>
